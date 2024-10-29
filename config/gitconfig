@@ -1,0 +1,14 @@
+[alias]
+	cm = checkout master
+	s = status
+	c = commit -m
+	alias = config --get-regexp alias
+	pl = pull
+	co = checkout
+	pm = pull master
+	d = diff
+	aa = add -u
+[rerere]
+	enabled = true
+[submodule]
+	recurse = true

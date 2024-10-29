@@ -1,0 +1,12 @@
+# Ignore all IntelliJ project settings. Could be improved: https://intellij-support.jetbrains.com/hc/en-us/articles/206544839-How-to-manage-projects-under-Version-Control-Systems
+.idea/
+
+# My preference: in each repo, have the ability to put stuff there without cluttering my 'git status'
+my_stuff/
+
+# Ignore python virtual environments
+venv/
+
+# Ignore build directories
+build/
+cmake-build-dir/
