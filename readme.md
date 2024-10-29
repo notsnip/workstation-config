@@ -86,5 +86,5 @@ This script significantly simplifies the initial setup of an Ubuntu workstation,
 
 ## TODO:
 - [ ] Avoid offline installation of applications 
-
 - [ ] Automate the installation of GNOME extensions if possible
+- [ ] Add Github Desktop to application
