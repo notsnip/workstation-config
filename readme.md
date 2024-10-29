@@ -4,6 +4,8 @@
 
 This script automates the setup of a fresh Ubuntu installation, providing a convenient way to install essential software and customize system settings. It streamlines the configuration process which helps me to quickly get my development environment up and running.
 
+![ss](ss.png)
+
 ## What This Script Does
 
 - Installs essential system programs and updates the system.
@@ -83,6 +85,6 @@ This script significantly simplifies the initial setup of an Ubuntu workstation,
 ![7](wallpapers/7.jpg)
 
 ## TODO:
-[ ] Avoid offline installation of applications 
+- [ ] Avoid offline installation of applications 
 
-[ ] Automate the installation of GNOME extensions if possible
+- [ ] Automate the installation of GNOME extensions if possible
