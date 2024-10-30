@@ -85,9 +85,8 @@ This script significantly simplifies the initial setup of an Ubuntu workstation,
 ![7](wallpapers/7.jpg)
 
 ## TODO:
-- [ ] Avoid offline installation of applications 
+- [ ] Avoid offline installation of applications and hardcoded file paths
 - [ ] Automate the installation of GNOME extensions if possible
-- [ ] Option to install Github Desktop
+- [ ] Application to add: A text editor and Github Desktop
 - [ ] Fix nodejs 23 installation
-- [ ] Avoid hardcoded file paths
-- [ ] Automatically make warp the default terminal 
+- [ ] Option to make warp the defualt terminal
