@@ -99,6 +99,8 @@ flatpak install flathub xyz.armcord.ArmCord # Vencord - Discord Client
 line_break
 ask_user_to_execute_command "Do you want to install Warp Terminal?" "sudo apt install ./applications/warp-terminal.deb" "Skipping Warp."
 line_break
+ask_user_to_execute_command "Do you want to install Github Desktop?" "flatpak install flathub io.github.shiftey.Desktop" "Skipping Github Desktop."
+line_break
 ask_user_to_execute_command "Do you want to install OBS Studio?" "flatpak install flathub com.obsproject.Studio" "Skipping OBS Studio."
 line_break
 ask_user_to_execute_command "Do you want to install Blender?" "flatpak install flathub org.blender.Blender" "Skipping Blender."
@@ -136,10 +138,11 @@ git config --global core.excludesFile ${pwd}/config/global_gitignore
 
 manual_setup() {
 printf "
-1. Install following GNOME extensions: User Themes, Blur my Shell, Dash to Dock, GS Connect.\n
-2. Apply GNOME shell theme and change the font style. \n
-3. Configure display scaling and mouse sensitivity to your liking. \n
-4. Set up the GRUB boot order if needed. \n"
+1. Install following GNOME extensions: User Themes, Blur my Shell, GS Connect, Compiz alike window effect.\n
+2. Install Dash to Dock extension for MacOS dock. Make sure to disable the default Ubuntu dock.
+3. Apply GNOME shell theme and change the font style. \n
+4. Configure display scaling and mouse sensitivity to your liking. \n
+5. Set up the GRUB boot order if needed. \n"
 }
 
 # Execution Order

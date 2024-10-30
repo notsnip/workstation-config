@@ -60,7 +60,7 @@ cd ~/Downloads/workstation-config
 
 After the installation completes, you will need to manually:
 
-- Install GNOME extensions. Apply GNOME shell theme. 
+- Install GNOME extensions and apply shell theme. 
 - Configure display scaling and mouse sensitivity to your liking.
 - Set up the GRUB boot order if needed.
 
@@ -87,6 +87,6 @@ This script significantly simplifies the initial setup of an Ubuntu workstation,
 ## TODO:
 - [ ] Avoid offline installation of applications and hardcoded file paths
 - [ ] Automate the installation of GNOME extensions if possible
-- [ ] Application to add: A text editor and Github Desktop
+- [x] Application to add: Github Desktop
 - [ ] Fix nodejs 23 installation
 - [ ] Option to make warp the defualt terminal
