@@ -88,5 +88,5 @@ This script significantly simplifies the initial setup of an Ubuntu workstation,
 - [ ] Avoid offline installation of applications and hardcoded file paths
 - [ ] Automate the installation of GNOME extensions if possible
 - [x] Application to add: Github Desktop
-- [ ] Fix nodejs 23 installation
+- [x] Fix nodejs 22 installation
 - [ ] Option to make warp the defualt terminal
