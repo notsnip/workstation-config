@@ -60,9 +60,9 @@ cd ~/Downloads/workstation-config
 
 After the installation completes, you will need to manually:
 
-- Install GNOME extensions and apply shell theme. 
-- Configure display scaling and mouse sensitivity to your liking.
-- Set up the GRUB boot order if needed.
+- Install GNOME extensions.
+- Apply the shell theme.
+- Tweak settings like display scaling and mouse sensitivity to your liking.
 
 ## Using this script for yourself
 
