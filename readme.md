@@ -86,7 +86,5 @@ This script significantly simplifies the initial setup of an Ubuntu workstation,
 
 ## TODO:
 
-- [x] Application to add: Github Desktop
-- [x] Fix nodejs 22 installation
-- [x] Avoid offline installation of applications and hardcoded file paths
 - [ ] Automate the installation of GNOME extensions if possible
+- [ ] Replace the line break and say functions with a better implementation (i'm a little dumb)
