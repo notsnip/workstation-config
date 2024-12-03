@@ -48,13 +48,13 @@ The script installs the following applications automatically:
 
 This script is intended for **Ubuntu** and has been tested on **Ubuntu 22.10**. 
 
-### Execution Directory
+<!--- ### Execution Directory 
 
 Before running the script, make sure to navigate to the following directory:
 
 ```bash
 cd ~/Downloads/workstation-config
-```
+``` --->
 
 ## Manual Configuration After Installation
 
