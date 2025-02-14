@@ -23,11 +23,10 @@ The script performs the following actions automatically:
 3. **Theming**: Sets up GTK themes, icons, and wallpapers.
 4. **Application Installation**: Installs various applications through Flatpak and Snap.
 5. **Development Tools**: Installs build tools, runtimes, and configures Git.
-6. **Prompt for Additional Installations**: Asks the user whether to install specific applications and tools.
 
 ## Applications Installed
 
-The script installs the following applications automatically:
+The script asks the user to install the following applications automatically:
 
 - **Browsers & Media Players**:
   - Zen Browser
@@ -38,11 +37,11 @@ The script installs the following applications automatically:
   
 - **Development Tools**:
   - Visual Studio Code (Snap)
-  - ArmCord - Discord Client
-  - OBS Studio (optional)
-  - Blender (optional)
-  - MongoDB Compass (optional)
-  - Warp Terminal (optional)
+  - ArmCord Discord Client
+  - OBS Studio 
+  - Blender
+  - MongoDB Compass 
+  - Warp Terminal
 
 ## System Requirements
 
@@ -87,4 +86,4 @@ This script significantly simplifies the initial setup of an Ubuntu workstation,
 ## TODO:
 
 - [ ] Automate the installation of GNOME extensions if possible
-- [ ] Replace the line break and say functions with a better implementation (i'm a little dumb)
+- [ ] Replace the line break and say functions with a better implementation (Can be done easily!)
