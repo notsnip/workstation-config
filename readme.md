@@ -85,5 +85,5 @@ This script significantly simplifies the initial setup of an Ubuntu workstation,
 
 ## TODO:
 
-- [ ] Automate the installation of GNOME extensions if possible
+- [ ] Automate the installation of GNOME extensions (gext)
 - [ ] Replace the line break and say functions with a better implementation (Can be done easily!)
