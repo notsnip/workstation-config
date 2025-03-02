@@ -87,4 +87,5 @@ This script significantly simplifies the initial setup of an Ubuntu workstation,
 
 - [ ] Automate the installation of GNOME extensions (gnome-extensions-cli)
 - [ ] Label and add more applications
+- [ ] [Extensions Sync](https://extensions.gnome.org/extension/1486/extensions-sync/)
 - [x] Replace the line break and say functions with a better implementation (Can be done easily!)
